@@ -70,7 +70,7 @@ CineSage/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CineSage.git
+git clone https://github.com/KAKUL23FE10CSE00261/CineSage.git
 
 cd CineSage
 ```
