@@ -66,7 +66,6 @@ CineSage/
 │── requirements.txt        # Project dependencies
 │── .env                    # Environment variables (API keys)
 └── README.md               # Project documentation
-
 ```
 
 ---
@@ -202,6 +201,7 @@ B.Tech Computer Science Engineering
 AI & Machine Learning Enthusiast
 
 - GitHub: https://github.com/KAKUL23FE10CSE00261
+- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
