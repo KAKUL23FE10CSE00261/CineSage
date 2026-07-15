@@ -154,7 +154,17 @@ The assistant extracts:
 
 ## 📸 Sample Interface
 
-<img width="900" alt="CineSage UI" src="your_screenshot_here"/>
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/d3a30c0d-0242-49ef-90bd-d04c768e1c5e" />
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/a9856861-e298-4d53-adb7-672fd3839005" />
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/8abe6f46-1855-4adb-888e-8efb9e769a64" />
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/fd334a07-88a0-4f4f-bee0-bd31f9dc0c7d" />
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/1cdd7e8a-6dbf-4fc9-8e0f-05cc17b1ca6a" />
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/07d16ea3-0c46-4deb-8fc7-e611f9e63036" />
 
 ---
 
